@@ -1,1 +1,1 @@
-# redirect
+# What is a page redirect?
